@@ -224,9 +224,6 @@ h2 {
 
 @media screen and (max-width:800px) {
 
-    /* .corner-box {
-        display: none;
-    } */
     .wrap {
         display: inline-block;
         position: absolute;
