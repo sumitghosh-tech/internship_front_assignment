@@ -4,7 +4,7 @@ Here are the screenshots of this website :
 
 Desktop View : -- 
 
-![image](https://user-images.githubusercontent.com/64772108/163009237-9027d89a-446d-419d-9833-3295e323a787.png)
+![m1](https://user-images.githubusercontent.com/64772108/163009558-e9e29a03-e184-4b75-8320-e170e21b2fb2.png)
 
 
 Mobile View : --
